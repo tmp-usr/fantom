@@ -1,0 +1,311 @@
+	Level 1	Level 2	Level 3	Level 4	Accession	sample_1	sample_2	sample_3	sample_4	sample_5	sample_6
+0	Metabolism	Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation [PATH:ko00625]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+1	Metabolism	Overview	Degradation of aromatic compounds [PATH:ko01220]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+2	Metabolism	Metabolism of cofactors and vitamins	Retinol metabolism [PATH:ko00830]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+3	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+4	Metabolism	Carbohydrate metabolism	Degradation of aromatic compounds [PATH:ko01220]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+5	Metabolism	Lipid metabolism	Fatty acid degradation [PATH:ko00071]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+6	Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+7	Metabolism	Xenobiotics biodegradation and metabolism	Naphthalene degradation [PATH:ko00626]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+8	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+9	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450 [PATH:ko00982]	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]	K00001	6	5	3	6	2	3
+10	Metabolism	Overview	Degradation of aromatic compounds [PATH:ko01220]	AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	K00002	0	0	0	1	0	1
+11	Metabolism	Xenobiotics biodegradation and metabolism	Caprolactam degradation [PATH:ko00930]	AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	K00002	0	0	0	1	0	1
+12	Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	K00002	0	0	0	1	0	1
+13	Metabolism	Carbohydrate metabolism	Degradation of aromatic compounds [PATH:ko01220]	AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	K00002	0	0	0	1	0	1
+14	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	K00002	0	0	0	1	0	1
+15	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	K00002	0	0	0	1	0	1
+16	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	K00003	2	1	1	4	1	0
+17	Metabolism	Amino acid metabolism	Lysine biosynthesis [PATH:ko00300]	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	K00003	2	1	1	4	1	0
+18	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	K00003	2	1	1	4	1	0
+19	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	E1.1.1.3; homoserine dehydrogenase [EC:1.1.1.3]	K00003	2	1	1	4	1	0
+20	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	BDH, butB; (R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.4 1.1.1.- 1.1.1.303]	K00004	1	1	0	0	1	2
+21	Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	gldA; glycerol dehydrogenase [EC:1.1.1.6]	K00005	1	0	0	0	0	0
+22	Metabolism	Carbohydrate metabolism	Propanoate metabolism [PATH:ko00640]	gldA; glycerol dehydrogenase [EC:1.1.1.6]	K00005	1	0	0	0	0	0
+23	Metabolism	Lipid metabolism	Glycerophospholipid metabolism [PATH:ko00564]	GPD1; glycerol-3-phosphate dehydrogenase (NAD+) [EC:1.1.1.8]	K00006	1	1	0	0	0	0
+24	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	SORD, gutB; L-iditol 2-dehydrogenase [EC:1.1.1.14]	K00008	3	0	0	1	2	1
+25	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	SORD, gutB; L-iditol 2-dehydrogenase [EC:1.1.1.14]	K00008	3	0	0	1	2	1
+26	Metabolism	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis [PATH:ko00521]	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	K00010	4	2	0	0	1	1
+27	Metabolism	Energy metabolism	Inositol phosphate metabolism [PATH:ko00562]	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	K00010	4	2	0	0	1	1
+28	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	K00010	4	2	0	0	1	1
+29	Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	E1.1.1.21, AKR1; aldehyde reductase [EC:1.1.1.21]	K00011	1	0	0	2	0	0
+30	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	E1.1.1.21, AKR1; aldehyde reductase [EC:1.1.1.21]	K00011	1	0	0	2	0	0
+31	Metabolism	Carbohydrate metabolism	Galactose metabolism [PATH:ko00052]	E1.1.1.21, AKR1; aldehyde reductase [EC:1.1.1.21]	K00011	1	0	0	2	0	0
+32	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	E1.1.1.21, AKR1; aldehyde reductase [EC:1.1.1.21]	K00011	1	0	0	2	0	0
+33	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	K00012	6	3	2	7	2	7
+34	Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	K00012	6	3	2	7	2	7
+35	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	K00012	6	3	2	7	2	7
+36	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism [PATH:ko00520]	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	K00012	6	3	2	7	2	7
+37	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	hisD; histidinol dehydrogenase [EC:1.1.1.23]	K00013	6	7	0	4	4	4
+38	Metabolism	Amino acid metabolism	Histidine metabolism [PATH:ko00340]	hisD; histidinol dehydrogenase [EC:1.1.1.23]	K00013	6	7	0	4	4	4
+39	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	aroE; shikimate dehydrogenase [EC:1.1.1.25]	K00014	3	4	2	3	2	1
+40	Metabolism	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]	aroE; shikimate dehydrogenase [EC:1.1.1.25]	K00014	3	4	2	3	2	1
+41	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	gyaR; glyoxylate reductase [EC:1.1.1.26]	K00015	2	1	0	1	0	1
+42	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	hprA; glycerate dehydrogenase [EC:1.1.1.29]	K00018	0	1	0	0	0	0
+43	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	hprA; glycerate dehydrogenase [EC:1.1.1.29]	K00018	0	1	0	0	0	0
+44	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	hprA; glycerate dehydrogenase [EC:1.1.1.29]	K00018	0	1	0	0	0	0
+45	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	hprA; glycerate dehydrogenase [EC:1.1.1.29]	K00018	0	1	0	0	0	0
+46	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	E1.1.1.30, bdh; 3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]	K00019	2	1	0	2	2	1
+47	Metabolism	Lipid metabolism	Synthesis and degradation of ketone bodies [PATH:ko00072]	E1.1.1.30, bdh; 3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]	K00019	2	1	0	2	2	1
+48	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine degradation [PATH:ko00280]	E1.1.1.31, mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	K00020	3	7	0	7	2	9
+49	Environmental Information Processing	Signal transduction	AMPK signaling pathway [PATH:ko04152]	HMGCR; hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]	K00021	1	1	0	3	0	0
+50	Organismal Systems	Digestive system	Bile secretion [PATH:ko04976]	HMGCR; hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]	K00021	1	1	0	3	0	0
+51	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis [PATH:ko00900]	HMGCR; hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]	K00021	1	1	0	3	0	0
+52	Metabolism	Lipid metabolism	Fatty acid elongation [PATH:ko00062]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+53	Metabolism	Metabolism of terpenoids and polyketides	Geraniol degradation [PATH:ko00281]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+54	Metabolism	Amino acid metabolism	Lysine degradation [PATH:ko00310]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+55	Metabolism	Xenobiotics biodegradation and metabolism	Caprolactam degradation [PATH:ko00930]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+56	Metabolism	Overview	Fatty acid metabolism [PATH:ko01212]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+57	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+58	Metabolism	Lipid metabolism	Fatty acid degradation [PATH:ko00071]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+59	Metabolism	Xenobiotics biodegradation and metabolism	1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane (DDT) degradation [PATH:ko00351]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+60	Metabolism	Xenobiotics biodegradation and metabolism	Bisphenol degradation [PATH:ko00363]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+61	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine degradation [PATH:ko00280]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+62	Metabolism	Amino acid metabolism	Tryptophan metabolism [PATH:ko00380]	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022	0	0	1	1	0	0
+63	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	E1.1.1.36, phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	K00023	1	0	0	1	1	3
+64	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	E1.1.1.36, phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	K00023	1	0	0	1	1	3
+65	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	E1.1.1.36, phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	K00023	1	0	0	1	1	3
+66	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+67	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+68	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+69	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+70	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+71	Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+72	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+73	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024	7	2	2	3	4	2
+74	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+75	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+76	Organismal Systems	Excretory system	Proximal tubule bicarbonate reclamation [PATH:ko04964]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+77	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+78	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+79	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+80	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025	3	1	0	2	0	0
+81	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026	0	0	1	0	0	0
+82	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026	0	0	1	0	0	0
+83	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026	0	0	1	0	0	0
+84	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026	0	0	1	0	0	0
+85	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026	0	0	1	0	0	0
+86	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026	0	0	1	0	0	0
+87	Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	K00027	4	3	2	5	2	6
+88	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	K00027	4	3	2	5	2	6
+89	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	K00027	4	3	2	5	2	6
+90	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	E1.1.1.39; malate dehydrogenase (decarboxylating) [EC:1.1.1.39]	K00028	5	3	2	2	5	6
+91	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	E1.1.1.39; malate dehydrogenase (decarboxylating) [EC:1.1.1.39]	K00028	5	3	2	2	5	6
+92	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	E1.1.1.39; malate dehydrogenase (decarboxylating) [EC:1.1.1.39]	K00028	5	3	2	2	5	6
+93	Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	E1.1.1.39; malate dehydrogenase (decarboxylating) [EC:1.1.1.39]	K00028	5	3	2	2	5	6
+94	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	K00029	10	3	2	6	4	8
+95	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	K00029	10	3	2	6	4	8
+96	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	K00029	10	3	2	6	4	8
+97	Metabolism	Overview	2-Oxocarboxylic acid metabolism [PATH:ko01210]	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]	K00030	1	4	1	3	1	2
+98	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]	K00030	1	4	1	3	1	2
+99	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]	K00030	1	4	1	3	1	2
+100	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]	K00030	1	4	1	3	1	2
+101	Metabolism	Overview	2-Oxocarboxylic acid metabolism [PATH:ko01210]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+102	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+103	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+104	Metabolism	Metabolism of other amino acids	Glutathione metabolism [PATH:ko00480]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+105	Cellular Processes	Transport and catabolism	Peroxisome [PATH:ko04146]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+106	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+107	Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+108	Metabolism	Glycan biosynthesis and metabolism	Glutathione metabolism [PATH:ko00480]	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031	11	9	3	14	7	12
+109	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	K00033	5	6	2	4	3	7
+110	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	K00033	5	6	2	4	3	7
+111	Metabolism	Glycan biosynthesis and metabolism	Glutathione metabolism [PATH:ko00480]	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	K00033	5	6	2	4	3	7
+112	Metabolism	Metabolism of other amino acids	Glutathione metabolism [PATH:ko00480]	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	K00033	5	6	2	4	3	7
+113	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	gdh; glucose 1-dehydrogenase [EC:1.1.1.47]	K00034	1	0	0	0	0	1
+114	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	gdh; glucose 1-dehydrogenase [EC:1.1.1.47]	K00034	1	0	0	0	0	1
+115	Metabolism	Carbohydrate metabolism	Galactose metabolism [PATH:ko00052]	gal; D-galactose 1-dehydrogenase [EC:1.1.1.48]	K00035	0	1	0	0	0	0
+116	Metabolism	Metabolism of other amino acids	Glutathione metabolism [PATH:ko00480]	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]	K00036	4	4	2	4	2	2
+117	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]	K00036	4	4	2	4	2	2
+118	Human Diseases	Cancers	Central carbon metabolism in cancer [PATH:ko05230]	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]	K00036	4	4	2	4	2	2
+119	Metabolism	Glycan biosynthesis and metabolism	Glutathione metabolism [PATH:ko00480]	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]	K00036	4	4	2	4	2	2
+120	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]	K00036	4	4	2	4	2	2
+121	Metabolism	Lipid metabolism	Steroid hormone biosynthesis [PATH:ko00140]	E1.1.1.53; 3alpha(or 20beta)-hydroxysteroid dehydrogenase [EC:1.1.1.53]	K00038	0	0	0	1	0	0
+122	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	rbtD; ribitol 2-dehydrogenase [EC:1.1.1.56]	K00039	0	0	0	0	0	1
+123	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	uxuB; fructuronate reductase [EC:1.1.1.57]	K00040	0	2	0	1	0	1
+124	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	uxaB; tagaturonate reductase [EC:1.1.1.58]	K00041	0	0	0	0	0	1
+125	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	garR, glxR; 2-hydroxy-3-oxopropionate reductase [EC:1.1.1.60]	K00042	1	3	0	3	3	4
+126	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	gbd; 4-hydroxybutyrate dehydrogenase [EC:1.1.1.61]	K00043	2	0	0	1	2	0
+127	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	gbd; 4-hydroxybutyrate dehydrogenase [EC:1.1.1.61]	K00043	2	0	0	1	2	0
+128	Metabolism	Lipid metabolism	Steroid hormone biosynthesis [PATH:ko00140]	HSD17B1; 17beta-estradiol 17-dehydrogenase [EC:1.1.1.62]	K00044	1	0	0	0	0	0
+129	Organismal Systems	Endocrine system	Ovarian Steroidogenesis [PATH:ko04913]	HSD17B1; 17beta-estradiol 17-dehydrogenase [EC:1.1.1.62]	K00044	1	0	0	0	0	0
+130	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	E1.1.1.67, mtlK; mannitol 2-dehydrogenase [EC:1.1.1.67]	K00045	0	1	0	3	0	2
+131	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	ttuD; hydroxypyruvate reductase [EC:1.1.1.81]	K00050	0	1	0	1	1	4
+132	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	ttuD; hydroxypyruvate reductase [EC:1.1.1.81]	K00050	0	1	0	1	1	4
+133	Metabolism	Overview	2-Oxocarboxylic acid metabolism [PATH:ko01210]	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052	5	8	1	6	3	7
+134	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine biosynthesis [PATH:ko00290]	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052	5	8	1	6	3	7
+135	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052	5	8	1	6	3	7
+136	Metabolism	Energy metabolism	Inositol phosphate metabolism [PATH:ko00562]	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052	5	8	1	6	3	7
+137	Metabolism	Carbohydrate metabolism	C5-Branched dibasic acid metabolism [PATH:ko00660]	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052	5	8	1	6	3	7
+138	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052	5	8	1	6	3	7
+139	Metabolism	Overview	2-Oxocarboxylic acid metabolism [PATH:ko01210]	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	K00053	2	1	0	3	1	6
+140	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	K00053	2	1	0	3	1	6
+141	Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis [PATH:ko00770]	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	K00053	2	1	0	3	1	6
+142	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine biosynthesis [PATH:ko00290]	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	K00053	2	1	0	3	1	6
+143	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis [PATH:ko00900]	mvaA; hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	K00054	2	0	1	0	1	3
+144	Metabolism	Lipid metabolism	Glycerophospholipid metabolism [PATH:ko00564]	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	K00057	4	0	0	4	2	4
+145	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	K00058	8	8	4	6	2	8
+146	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	K00058	8	8	4	6	2	8
+147	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	K00058	8	8	4	6	2	8
+148	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	K00058	8	8	4	6	2	8
+149	Metabolism	Overview	Fatty acid metabolism [PATH:ko01212]	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	K00059	9	8	4	19	3	8
+150	Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism [PATH:ko00780]	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	K00059	9	8	4	19	3	8
+151	Metabolism	Lipid metabolism	Fatty acid biosynthesis [PATH:ko00061]	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	K00059	9	8	4	19	3	8
+152	Metabolism	Lipid metabolism	Biosynthesis of unsaturated fatty acids [PATH:ko01040]	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	K00059	9	8	4	19	3	8
+153	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	tdh; threonine 3-dehydrogenase [EC:1.1.1.103]	K00060	0	1	1	1	0	2
+154	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	E1.1.1.122; D-threo-aldose 1-dehydrogenase [EC:1.1.1.122]	K00064	1	0	0	0	0	1
+155	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	E1.1.1.122; D-threo-aldose 1-dehydrogenase [EC:1.1.1.122]	K00064	1	0	0	0	0	1
+156	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	kduD; 2-deoxy-D-gluconate 3-dehydrogenase [EC:1.1.1.125]	K00065	2	2	0	1	1	4
+157	Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	algD; GDP-mannose 6-dehydrogenase [EC:1.1.1.132]	K00066	1	0	0	0	0	0
+158	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism [PATH:ko00520]	algD; GDP-mannose 6-dehydrogenase [EC:1.1.1.132]	K00066	1	0	0	0	0	0
+159	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	algD; GDP-mannose 6-dehydrogenase [EC:1.1.1.132]	K00066	1	0	0	0	0	0
+160	Metabolism	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis [PATH:ko00523]	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	K00067	1	0	0	0	0	1
+161	Metabolism	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis [PATH:ko00521]	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	K00067	1	0	0	0	0	1
+162	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	K00074	2	5	0	4	5	4
+163	Metabolism	Amino acid metabolism	Phenylalanine metabolism [PATH:ko00360]	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	K00074	2	5	0	4	5	4
+164	Metabolism	Xenobiotics biodegradation and metabolism	Benzoate degradation [PATH:ko00362]	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	K00074	2	5	0	4	5	4
+165	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism [PATH:ko00520]	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	K00075	3	1	2	2	2	2
+166	Metabolism	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis [PATH:ko00550]	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	K00075	3	1	2	2	2	2
+167	Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis [PATH:ko00770]	panE, apbA; 2-dehydropantoate 2-reductase [EC:1.1.1.169]	K00077	0	0	1	2	1	3
+168	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	CBR1; carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197]	K00079	0	0	1	0	0	0
+169	Human Diseases	Cancers	Chemical carcinogenesis [PATH:ko05204]	CBR1; carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197]	K00079	0	0	1	0	0	0
+170	Metabolism	Lipid metabolism	Arachidonic acid metabolism [PATH:ko00590]	CBR1; carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197]	K00079	0	0	1	0	0	0
+171	Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	ygeS, xdhA; xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]	K00087	0	0	0	1	0	0
+172	Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	guaB; IMP dehydrogenase [EC:1.1.1.205]	K00088	7	4	1	9	2	4
+173	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes [PATH:ko00983]	guaB; IMP dehydrogenase [EC:1.1.1.205]	K00088	7	4	1	9	2	4
+174	Genetic Information Processing	Enzyme families	Drug metabolism - other enzymes [PATH:ko00983]	guaB; IMP dehydrogenase [EC:1.1.1.205]	K00088	7	4	1	9	2	4
+175	Metabolism	Enzyme families	Drug metabolism - other enzymes [PATH:ko00983]	guaB; IMP dehydrogenase [EC:1.1.1.205]	K00088	7	4	1	9	2	4
+176	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	E1.1.1.215; gluconate 2-dehydrogenase [EC:1.1.1.215]	K00090	1	2	0	1	0	1
+177	Metabolism	Metabolism of cofactors and vitamins	Vitamin B6 metabolism [PATH:ko00750]	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]	K00097	3	1	1	3	4	2
+178	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis [PATH:ko00900]	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	K00099	0	4	2	2	1	5
+179	Metabolism	Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation [PATH:ko00625]	E1.1.1.-; [EC:1.1.1.-]	K00100	12	6	2	16	6	11
+180	Metabolism	Xenobiotics biodegradation and metabolism	Bisphenol degradation [PATH:ko00363]	E1.1.1.-; [EC:1.1.1.-]	K00100	12	6	2	16	6	11
+181	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	E1.1.1.-; [EC:1.1.1.-]	K00100	12	6	2	16	6	11
+182	Metabolism	Xenobiotics biodegradation and metabolism	Dioxin degradation [PATH:ko00621]	E1.1.1.-; [EC:1.1.1.-]	K00100	12	6	2	16	6	11
+183	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	E1.1.1.-; [EC:1.1.1.-]	K00100	12	6	2	16	6	11
+184	Metabolism	Lipid metabolism	Linoleic acid metabolism [PATH:ko00591]	E1.1.1.-; [EC:1.1.1.-]	K00100	12	6	2	16	6	11
+185	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	E1.1.2.3, lldD; L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]	K00101	6	0	2	1	5	5
+186	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	dld, LDHD; D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]	K00102	3	3	3	5	2	4
+187	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	glcD; glycolate oxidase [EC:1.1.3.15]	K00104	3	2	3	5	7	8
+188	Metabolism	Lipid metabolism	Glycerophospholipid metabolism [PATH:ko00564]	E1.1.3.21; alpha-glycerophosphate oxidase [EC:1.1.3.21]	K00105	2	0	0	1	0	0
+189	Metabolism	Biosynthesis of other secondary metabolites	Caffeine metabolism [PATH:ko00232]	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	K00106	0	0	2	0	0	0
+190	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes [PATH:ko00983]	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	K00106	0	0	2	0	0	0
+191	Cellular Processes	Transport and catabolism	Peroxisome [PATH:ko04146]	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	K00106	0	0	2	0	0	0
+192	Genetic Information Processing	Enzyme families	Drug metabolism - other enzymes [PATH:ko00983]	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	K00106	0	0	2	0	0	0
+193	Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	K00106	0	0	2	0	0	0
+194	Metabolism	Enzyme families	Drug metabolism - other enzymes [PATH:ko00983]	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	K00106	0	0	2	0	0	0
+195	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]	K00108	3	10	4	7	3	7
+196	Metabolism	Lipid metabolism	Glycerophospholipid metabolism [PATH:ko00564]	glpA, glpD; glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]	K00111	4	6	1	7	1	2
+197	Metabolism	Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation [PATH:ko00625]	exaA; alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	K00114	5	1	0	2	0	1
+198	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	exaA; alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	K00114	5	1	0	2	0	1
+199	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	E1.1.5.9; glucose dehydrogenase (acceptor) [EC:1.1.5.9]	K00115	0	1	1	1	0	0
+200	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	K00116	0	0	1	1	0	1
+201	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	K00116	0	0	1	1	0	1
+202	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	K00116	0	0	1	1	0	1
+203	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	gcd; quinoprotein glucose dehydrogenase [EC:1.1.5.2]	K00117	0	1	0	1	0	1
+204	Metabolism	Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation [PATH:ko00625]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+205	Metabolism	Overview	Degradation of aromatic compounds [PATH:ko01220]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+206	Metabolism	Metabolism of cofactors and vitamins	Retinol metabolism [PATH:ko00830]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+207	Human Diseases	Cancers	Chemical carcinogenesis [PATH:ko05204]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+208	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+209	Metabolism	Carbohydrate metabolism	Degradation of aromatic compounds [PATH:ko01220]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+210	Metabolism	Lipid metabolism	Fatty acid degradation [PATH:ko00071]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+211	Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+212	Metabolism	Xenobiotics biodegradation and metabolism	Naphthalene degradation [PATH:ko00626]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+213	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+214	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+215	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450 [PATH:ko00982]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+216	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121	4	4	0	5	2	2
+217	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	FDH; formate dehydrogenase [EC:1.2.1.2]	K00122	5	1	2	4	1	4
+218	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	FDH; formate dehydrogenase [EC:1.2.1.2]	K00122	5	1	2	4	1	4
+219	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	FDH; formate dehydrogenase [EC:1.2.1.2]	K00122	5	1	2	4	1	4
+220	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	fdoG, fdfH; formate dehydrogenase major subunit [EC:1.2.1.2]	K00123	9	8	4	8	4	5
+221	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	fdoG, fdfH; formate dehydrogenase major subunit [EC:1.2.1.2]	K00123	9	8	4	8	4	5
+222	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	fdoG, fdfH; formate dehydrogenase major subunit [EC:1.2.1.2]	K00123	9	8	4	8	4	5
+223	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	fdoH; formate dehydrogenase iron-sulfur subunit	K00124	4	1	0	2	0	0
+224	Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	fdoH; formate dehydrogenase iron-sulfur subunit	K00124	4	1	0	2	0	0
+225	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	fdoH; formate dehydrogenase iron-sulfur subunit	K00124	4	1	0	2	0	0
+226	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+227	Metabolism	Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation [PATH:ko00625]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+228	Metabolism	Metabolism of terpenoids and polyketides	Limonene and pinene degradation [PATH:ko00903]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+229	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+230	Metabolism	Amino acid metabolism	Lysine degradation [PATH:ko00310]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+231	Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+232	Metabolism	Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+233	Metabolism	Lipid metabolism	Fatty acid degradation [PATH:ko00071]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+234	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+235	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+236	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+237	Metabolism	Amino acid metabolism	Histidine metabolism [PATH:ko00340]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+238	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine degradation [PATH:ko00280]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+239	Metabolism	Amino acid metabolism	Tryptophan metabolism [PATH:ko00380]	E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	K00128	13	21	3	20	12	12
+240	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+241	Human Diseases	Cancers	Chemical carcinogenesis [PATH:ko05204]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+242	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+243	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+244	Metabolism	Amino acid metabolism	Phenylalanine metabolism [PATH:ko00360]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+245	Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+246	Metabolism	Amino acid metabolism	Histidine metabolism [PATH:ko00340]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+247	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450 [PATH:ko00982]	E1.2.1.5; aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]	K00129	1	0	0	1	1	4
+248	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	betB, gbsA; betaine-aldehyde dehydrogenase [EC:1.2.1.8]	K00130	2	3	2	7	3	6
+249	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	gapN; glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9]	K00131	0	1	0	1	0	0
+250	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	gapN; glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9]	K00131	0	1	0	1	0	0
+251	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	gapN; glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9]	K00131	0	1	0	1	0	0
+252	Metabolism	Overview	2-Oxocarboxylic acid metabolism [PATH:ko01210]	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133	5	5	2	6	3	2
+253	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133	5	5	2	6	3	2
+254	Metabolism	Biosynthesis of other secondary metabolites	Monobactam biosynthesis [PATH:ko00261]	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133	5	5	2	6	3	2
+255	Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133	5	5	2	6	3	2
+256	Metabolism	Amino acid metabolism	Lysine biosynthesis [PATH:ko00300]	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133	5	5	2	6	3	2
+257	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133	5	5	2	6	3	2
+258	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134	13	11	4	11	3	8
+259	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134	13	11	4	11	3	8
+260	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134	13	11	4	11	3	8
+261	Environmental Information Processing	Signal transduction	HIF-1 signaling pathway [PATH:ko04066]	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134	13	11	4	11	3	8
+262	Human Diseases	Neurodegenerative diseases	Alzheimer's disease [PATH:ko05010]	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134	13	11	4	11	3	8
+263	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134	13	11	4	11	3	8
+264	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	K00135	5	2	0	6	4	5
+265	Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	K00135	5	2	0	6	4	5
+266	Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism [PATH:ko00250]	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	K00135	5	2	0	6	4	5
+267	Metabolism	Amino acid metabolism	Lysine degradation [PATH:ko00310]	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	K00135	5	2	0	6	4	5
+268	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	prr; aminobutyraldehyde dehydrogenase [EC:1.2.1.19]	K00137	0	0	0	0	0	2
+269	Metabolism	Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	prr; aminobutyraldehyde dehydrogenase [EC:1.2.1.19]	K00137	0	0	0	0	0	2
+270	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	aldB; aldehyde dehydrogenase [EC:1.2.1.-]	K00138	1	0	0	0	0	0
+271	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	aldB; aldehyde dehydrogenase [EC:1.2.1.-]	K00138	1	0	0	0	0	0
+272	Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	ALDH5A1; succinate-semialdehyde dehydrogenase [EC:1.2.1.24]	K00139	1	0	0	0	1	0
+273	Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism [PATH:ko00250]	ALDH5A1; succinate-semialdehyde dehydrogenase [EC:1.2.1.24]	K00139	1	0	0	0	1	0
+274	Metabolism	Carbohydrate metabolism	Propanoate metabolism [PATH:ko00640]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+275	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+276	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine degradation [PATH:ko00280]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+277	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+278	Metabolism	Energy metabolism	Inositol phosphate metabolism [PATH:ko00562]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+279	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+280	Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism [PATH:ko00430]	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140	4	4	3	3	2	1
+281	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	LYS2; L-aminoadipate-semialdehyde dehydrogenase [EC:1.2.1.31]	K00143	1	0	0	0	0	0
+282	Metabolism	Amino acid metabolism	Lysine biosynthesis [PATH:ko00300]	LYS2; L-aminoadipate-semialdehyde dehydrogenase [EC:1.2.1.31]	K00143	1	0	0	0	0	0
+283	Metabolism	Amino acid metabolism	Lysine degradation [PATH:ko00310]	LYS2; L-aminoadipate-semialdehyde dehydrogenase [EC:1.2.1.31]	K00143	1	0	0	0	0	0
+284	Metabolism	Overview	2-Oxocarboxylic acid metabolism [PATH:ko01210]	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	K00145	1	2	2	1	1	2
+285	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	K00145	1	2	2	1	1	2
+286	Metabolism	Amino acid metabolism	Arginine biosynthesis [PATH:ko00220]	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	K00145	1	2	2	1	1	2
+287	Metabolism	Amino acid metabolism	Phenylalanine metabolism [PATH:ko00360]	feaB; phenylacetaldehyde dehydrogenase [EC:1.2.1.39]	K00146	1	1	0	3	0	2
+288	Metabolism	Xenobiotics biodegradation and metabolism	Styrene degradation [PATH:ko00643]	feaB; phenylacetaldehyde dehydrogenase [EC:1.2.1.39]	K00146	1	1	0	3	0	2
+289	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	K00147	5	2	2	3	3	5
+290	Metabolism	Biosynthesis of other secondary metabolites	Carbapenem biosynthesis [PATH:ko00332]	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	K00147	5	2	2	3	3	5
+291	Metabolism	Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	K00147	5	2	2	3	3	5
+292	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+293	Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+294	Metabolism	Amino acid metabolism	Lysine degradation [PATH:ko00310]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+295	Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+296	Metabolism	Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+297	Metabolism	Lipid metabolism	Fatty acid degradation [PATH:ko00071]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+298	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+299	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+300	Metabolism	Amino acid metabolism	Histidine metabolism [PATH:ko00340]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+301	Metabolism	Amino acid metabolism	Valine, leucine and isoleucine degradation [PATH:ko00280]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+302	Metabolism	Amino acid metabolism	Tryptophan metabolism [PATH:ko00380]	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	K00149	0	0	1	1	0	0
+303	Metabolism	Overview	Biosynthesis of amino acids [PATH:ko01230]	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	K00150	2	1	1	0	2	0
+304	Metabolism	Overview	Carbon metabolism [PATH:ko01200]	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	K00150	2	1	1	0	2	0
+305	Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	K00150	2	1	1	0	2	0
+306	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	K00150	2	1	1	0	2	0
+307	Metabolism	Overview	Degradation of aromatic compounds [PATH:ko01220]	hpaE, hpcC; 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase [EC:1.2.1.60]	K00151	3	1	1	1	1	6
+308	Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	hpaE, hpcC; 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase [EC:1.2.1.60]	K00151	3	1	1	1	1	6
+309	Metabolism	Carbohydrate metabolism	Degradation of aromatic compounds [PATH:ko01220]	hpaE, hpcC; 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase [EC:1.2.1.60]	K00151	3	1	1	1	1	6
