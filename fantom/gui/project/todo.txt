@@ -1,0 +1,19 @@
+1 information panel
+2 transient popup for norm function
+3 exploratory panel fine tune
+- 4 group panel to dialog 
+    color picker control
+    listctrl
+    delete group button
+    ok cancel buttons
+
+5 comparison panel
+6 plot panel to transient popup
+7 circos plot
+    - level colors and plot types
+    - highlights level and color
+    - links level and color
+
+
+
+

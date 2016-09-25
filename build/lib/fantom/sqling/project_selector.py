@@ -1,45 +1,19 @@
 from storm.locals import Unicode, Int, Float, Reference, ReferenceSet
 
-from fantom.sqling.project_orm import SampleORM, ProjectORM, MetadataORM, SampleMetadataORM, MetadataValueORM
+from fantom.src.sqling.project_orm import SampleORM, ProjectORM, MetadataORM, SampleMetadataORM, MetadataValueORM
 
 class ProjectSelector(object):
     
     def __init__(self, project_name, store):
         self.store= store
-        self.project= self.store.find(ProjectORM, ProjectORM.name == unicode(project_name)).one()
+        self.project= self.store.find(ProjectORM, ProjectORM.name == project_name).one()
 
 
-    def get_all_metadata(self, categorical=False):
-
-        samples= self.store.find(SampleORM, SampleORM.project_id == self.project.id )
-        
-        for sample in samples:
-            sm= self.store.find(SampleMetadataORM, SampleMetadataORM.sample_id == sample.id)
-            for sample_metadata in sm:
-                mv= self.store.find(MetadataValueORM, MetadataValueORM.id == sample_metadata.metadata_value_id)
-                for metadata_value in mv:
-                    metadata= self.store.find(MetadataORM, MetadataORM.id == metadata_value.metadata_id).one()
-                    
-                    if categorical:
-                        if not metadata.data_type == 1:
-                            continue
-                        value= metadata_value.string_value
-                        print metadata.name, value, sample.name
-
-                    else:
-                        if not metadata.data_type == 1:
-                            value= metadata_value.string_value
-                    
-                        elif metadata.data_type == 2:
-                            value= metadata_value.int_value
-                
-                        elif metadata.data_type == 3:
-                            value= metadata_value.float_value
-
-                        print metadata.name, value, sample.name
-
-
-
+    def get_metadata(self):
+        return { metadata.name: metadata.data_type for metadata in 
+                 self.store.find(MetadataORM, MetadataORM.project_id == 
+                 self.project.id)
+                }
     
     def get_metadata_names(self):
         return [metadata.name for metadata in 
@@ -62,40 +36,42 @@ class ProjectSelector(object):
 
     def build_expression(self, MetadataORM, MetadataValueORM, prop, value, operator):
         meta=self.store.find(MetadataORM, MetadataORM.name == unicode(prop)).one()
-        
-        if meta.data_type==1:        
-            my_value = MetadataValueORM.string_value
-            value= unicode(value)
-
-        elif meta.data_type==2:    
-            my_value = MetadataValueORM.int_value
-            value= int(value)    
-
-        elif meta.data_type==3:        
-            my_value =  MetadataValueORM.float_value
-            value= float(value)
-
-        
         if operator == 'contains':
-            return (my_value.like('%'+ value+ '%')) 
+            return (MetadataValueORM.string_value.like(unicode('%'+value+'%'))) 
 
         elif operator == '=':
-            return (my_value == value)
+            if meta.data_type==1:        
+                return (MetadataValueORM.string_value == unicode(value)) 
+            elif meta.data_type==2:    
+                return (MetadataValueORM.int_value == int(value))
+            elif meta.data_type==3:        
+                return (MetadataValueORM.float_value == float(value)) 
         
         elif operator == '<':
-            return (my_value < value)
-
+            if meta.data_type == 2:        
+                return (MetadataValueORM.int_value < int(value)) 
+            elif meta.data_type==3:        
+                return (MetadataValueORM.float_value < float(value)) 
+        
         elif operator == '>':
-            return (my_value > value)
+            if meta.data_type==2:        
+                return (MetadataValueORM.int_value > int(value)) 
+            elif meta.data_type==3:        
+                return (MetadataValueORM.float_value > float(value)) 
 
-        elif operator == '<=':
-            return (my_value <= value)
+        if operator == '<=':
+            if meta.data_type==2:        
+                return (MetadataValueORM.int_value <= int(value))
+            elif meta.data_type==3:        
+                return (MetadataValueORM.float_value <= float(value)) 
 
-        elif operator == '>=':
-            return (my_value >= value)
+        if operator == '>=':
+            if meta.data_type==2:        
+                return (MetadataValueORM.int_value >= int(value)) 
+            elif meta.data_type==3:        
+                return (MetadataValueORM.float_value >= float(value)) 
+
     
-
-
     def get_all_samples(self):
         
         SampleORM.metadata = ReferenceSet(SampleORM.id,
@@ -105,7 +81,6 @@ class ProjectSelector(object):
         
         return [sample for sample in self.store.find(SampleORM, 
             SampleORM.project_id == self.project.id)]
-
 
     def get_categorical_samples(self):
         category_types= self.get_categorical_metadata()
@@ -120,7 +95,6 @@ class ProjectSelector(object):
                 CategoryType[category_type][category]= [sample.name for sample in self.get_samples_by_prop(category_type, category, '=' )] 
         return CategoryType 
         
-
     def get_prop_values(self, prop):
         return list(set([[[str(value) for value in (metadata.string_value,metadata.int_value,metadata.float_value) if value is not None ][0] for metadata in sample.metadata if metadata.metadata.name == unicode(prop)][0] for sample in self.get_all_samples()]))
 
@@ -157,15 +131,25 @@ class ProjectSelector(object):
                                          
         return MD 
             
-
-    def get_sample_metadata_by_name(self, sample_name, metadata_name):        
+    def query_sample_metadata_by_name(self, sample_name, metadata_name):
+        
         return self.store.find(SampleMetadataORM, 
             SampleMetadataORM.sample_id == SampleORM.id,
             SampleMetadataORM.metadata_value_id == MetadataValueORM.id,
             MetadataValueORM.metadata_id==MetadataORM.id, 
-            (SampleORM.name == unicode(sample_name)) & 
-            (MetadataORM.name == unicode(metadata_name))).one()
+            (SampleORM.name == sample_name) & 
+            (MetadataORM.name == metadata_name))
         
+
+    def get_sample_metadata_by_name(self, sample_name, metadata_name):
+        
+        return self.store.find(SampleMetadataORM, 
+            SampleMetadataORM.sample_id == SampleORM.id,
+            SampleMetadataORM.metadata_value_id == MetadataValueORM.id,
+            MetadataValueORM.metadata_id==MetadataORM.id, 
+            (SampleORM.name == sample_name) & 
+            (MetadataORM.name == metadata_name)).one()
+
 
     def get_categorical_metadata(self):
         return [ metadata for metadata,data_type in
