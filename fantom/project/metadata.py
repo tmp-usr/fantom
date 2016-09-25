@@ -1,7 +1,4 @@
 from openpyxl import load_workbook
-
-
-
 from fantom.sqling.project_orm import MetadataORM, EnvPackageORM, EnvPackageMetadataORM
 
 
@@ -61,10 +58,10 @@ class MetadataSelector(object):
         return self.store.find(EnvPackageORM, EnvPackageORM.name == name).one()
 
     def get_metadata_names(self):
-        return self.store.find(MetadataORM).all()
+        return self.store.find(MetadataORM)
 
     def get_env_package_names(self):
-        return self.store.find(EnvPackageORM).all()
+        return self.store.find(EnvPackageORM)
 
     
 
@@ -151,22 +148,18 @@ class MetadataInserter(object):
                         self.store.add(md)
                     
                     self.store.commit()
-
-
-
-
         self.store.commit()
 
 
-fantomii_db= "fantomii.db"
-excel_file= "/Users/kemal/Desktop/mgrast_mixs_template.xlsx"
+#fantomii_db= "fantomii.db"
+#excel_file= "/Users/kemal/Desktop/mgrast_mixs_template.xlsx"
 
-from storm.locals import create_database, Store
+#from storm.locals import create_database, Store
 
-fantom_sqlite_db = create_database("sqlite:%s" % fantomii_db )
-store= Store(fantom_sqlite_db)
+#fantom_sqlite_db = create_database("sqlite:%s" % fantomii_db )
+#store= Store(fantom_sqlite_db)
 
-mi= MetadataInserter(store)
-mi.insert_from_mixs_template(excel_file)
+#mi= MetadataInserter(store)
+#mi.insert_from_mixs_template(excel_file)
 
 
